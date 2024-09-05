@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    background-color: #89C15E;
+    width: 100%;
+    height: 100%;
+}
+
+.stars{
+    padding-left: 31%;
+    padding-top: 5%;
+    height: 100px;
+    width: 100px;
+  }
+  .trophy{
+    padding-left: 42%;
+  }
+  
+  .winpage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 5px;
+  }
+  .hurray {
+    margin-bottom: 30px;
+    height: 86px;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 87px;
+    font-weight: 600;
+  }
+  
+  .won {
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+    padding: 1px;
+  }
+  
+  .play {
+    
+    padding: 5px;
+  }
+  .play button{
+    width: 150px;
+    height: 50px;
+    border-color: #fff;
+    border-radius: 5px;
+  }
